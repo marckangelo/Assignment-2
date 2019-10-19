@@ -1,0 +1,14 @@
+1. What was the point made by Bill Gates in his Open Letter to Hobbyists? (7min30sec)
+He was saying there was no point in programming an operational software that was not allowed to be modified for the 
+better. He was saying that there was a need for owners that understood the programming in order to have quality 
+sofwtare in the hobby market.
+
+2. What did Richard Stallman describe as an ethical dilemma?(5min04, 9min40)
+
+He was in a dilemma because he wanted to share an operating system that he wasn't allowed to share. 
+He didn't want to "betray" the cooperating community, so he created his own "free" operating software.
+
+3. What are the freedoms that enable people to form a community?
+
+Freedoms that enable people to distribute free software to others. 
+Also, the freedom to add to the software under certain terms ("CopyLeft").

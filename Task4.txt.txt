@@ -1,0 +1,7 @@
+Atom is a great open source text editor developed by GitHub. This text editor in pretty efficient because you can make text files directly
+within the app, because it you can direclty commit and push your changes from the app itself. On the other hand with you have to put all your 
+files in the cloned respository and use the command line using commands like git commit -m "" and git push and set up your account etc. which
+quite simple but still requires more steps. Although, I still prefer the command line, because I am just more used to it and it's simple for me.
+
+For NetBeans, I discovered that you just you have to right click on the file you want to add and then all you just commit the changes the usual
+way. I also discovered that you can directly use git on NetBeans.
